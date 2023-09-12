@@ -1,0 +1,35 @@
+.body {
+  margin: 0;
+}
+
+.service-section {
+  background-color: #e9e9e9;
+  padding: 70px 0;
+  margin-bottom: 40px;
+}
+
+.wrapper {
+  display: flex;
+  width: 1050px;
+  margin: auto;
+  gap: 30px;
+}
+
+.service {
+  background-color: white;
+  padding: 25px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+p {
+  font-size: 14px;
+  margin: 0;
+}
